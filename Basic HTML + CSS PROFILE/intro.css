@@ -1,0 +1,125 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+p
+{
+  padding: 5px;
+}
+
+#intern
+{
+  padding: 15px;
+  text-align: left;
+}
+
+#uv_name
+{
+  color: gray;
+  font: italic;
+
+}
+
+
+* {box-sizing:border-box}
+
+
+.container {
+  width: 100%; 
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: white; 
+}
+
+.html {width: 90%; background-color: #4CAF50; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.css {width: 80%; background-color: #2196F3; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.js {width: 65%; background-color: #f44336; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.php {width: 60%; background-color: #808080; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.java {width: 30%; background-color: red; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.c {width: 60%; background-color: black; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.cpp {width: 60%; background-color: purple; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+.cs {width: 30%; background-color: orange; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);} 
+
+.skillset
+{
+  padding: 10%;
+}
+
+#frameWorks
+{
+  text-align: left;
+  padding: 15px;
+}
+
+#list
+{
+  text-align: left;
+}
+
+#add
+{
+  margin: 50px;
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+#imglogo
+
+  {
+  width: 4%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+#heading{
+  text-align: left;
+}
+
+.links
+{
+  
+  text-align: right;
+}
+#search
+{
+  padding: 5px;
+}
+
